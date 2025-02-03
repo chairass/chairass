@@ -2,7 +2,7 @@
 <br>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F9AFFF&center=true&width=434&lines=Ol%C3%A1%2C+me+chamo+Chaira+Santos)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=F7C7E4&width=600&height=80&lines=Ol%C3%A1%2C+me+chamo+Chaira+Santos)](https://git.io/typing-svg)
 
 <br>
 <br>
@@ -10,6 +10,6 @@
 
 <div aling="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chairas&theme=monokai-metallian&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=960&card_height=250)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chairas&theme=github-green-purple&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=960&card_height=250)](https://git.io/streak-stats)
 
 </div>
