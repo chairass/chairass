@@ -5,6 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F9AFFF&center=true&width=434&lines=Ol%C3%A1%2C+me+chamo+Chaira+Santos)](https://git.io/typing-svg)
 
 <br>
+<br>
+<br>
 
 <div aling="center">
   
