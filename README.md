@@ -10,6 +10,9 @@
 
 <div aling="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chairas&theme=github-green-purple&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=960&card_height=250)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chairas&theme=calm-pink&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=960&card_height=250)](https://git.io/streak-stats)
 
 </div>
+
+![image](https://github.com/user-attachments/assets/40e7b15f-a979-4427-b0e1-cd7fd455641d)
+
