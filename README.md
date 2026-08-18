@@ -15,7 +15,7 @@ Em constante aprendizado, um commit de cada vez. 💜
 
 <p align="center">
 
-<a href="https://github.com/chairass?tab=followers">
+<a href="https://github.com/_chairass?tab=followers">
 <img
 alt="Seguidores"
 src="https://custom-icon-badges.demolab.com/github/followers/SEU-USUARIO?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
@@ -52,10 +52,10 @@ src="https://custom-icon-badges.demolab.com/github/followers/SEU-USUARIO?color=2
 
 <p align="center">
   <img width="56%"
-       src="https://github-stats-extended.vercel.app/api?username=chairass&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&custom_title=Estatísticas"/>
+       src="https://github-stats-extended.vercel.app/api?username=chairass&show_icons=true&theme=monokai&include_all_commits=true&hide_border=true&custom_title=Estatísticas"/>
   &nbsp;
   <img width="37%"
-       src="https://github-stats-extended.vercel.app/api/top-langs/?username=chairass&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8&hide_border=true"/>
+       src="https://github-stats-extended.vercel.app/api/top-langs/?username=chairass&theme=monokai&layout=compact&custom_title=Tecnologias&langs_count=8&hide_border=true"/>
 </p>
 
 ## 📈 Atividade
@@ -67,4 +67,13 @@ src="https://custom-icon-badges.demolab.com/github/followers/SEU-USUARIO?color=2
       alt="GitHub Streak"
     />
   </a>
+</p>
+
+## 🐍 Contribuições
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/chairass/chairass/gh-pages/github-contribution-grid-snake-dark.svg"
+    alt="Animação das contribuições"
+  />
 </p>
