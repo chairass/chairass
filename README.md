@@ -26,7 +26,7 @@ src="https://custom-icon-badges.demolab.com/github/followers/SEU-USUARIO?color=2
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
-<a href="SEU-LINKEDIN">
+<a href="(https://www.linkedin.com/in/chaira-santos-36659129a/)">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
