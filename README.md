@@ -4,18 +4,12 @@
 
 ### 💻 Back-End | Banco de Dados | Node.js
 
+<p>
+Em constante aprendizado, um commit de cada vez. 💜
+</p>
+
 </div>
 
----
-
-## Sobre mim
-
-- 🎓 Estudante de **SI-UNEX**
-- 💻 Atualmente estudando **Automação com IA**
-- 🎯 Interesse em **Banco de Dados**
-- 📍 Brasil
-
----
 
 ## 🌐 Conecte-se comigo
 
@@ -57,22 +51,20 @@ src="https://custom-icon-badges.demolab.com/github/followers/SEU-USUARIO?color=2
 ## 📊 Estatísticas
 
 <p align="center">
-  <img width="58%"
+  <img width="56%"
        src="https://github-stats-extended.vercel.app/api?username=chairass&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&custom_title=Estatísticas"/>
   &nbsp;
-  <img width="43%"
+  <img width="37%"
        src="https://github-stats-extended.vercel.app/api/top-langs/?username=chairass&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8&hide_border=true"/>
 </p>
----
 
 ## 📈 Atividade
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&theme=tokyo-night)
-
----
-
-<div align="center">
-
-### ✨ Obrigado por visitar meu perfil!
-
-</div>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://streak-stats.demolab.com/?user=chairass&theme=monokai&locale=pt_BR&card_width=900&card_height=170"
+      alt="GitHub Streak"
+    />
+  </a>
+</p>
